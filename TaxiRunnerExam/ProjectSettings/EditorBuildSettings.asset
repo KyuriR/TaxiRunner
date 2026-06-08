@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: d1496f67349620e468235d859a12531f
+  - enabled: 1
+    path: Assets/Scenes/VehicleSelectScene.unity
+    guid: 478bef782e4a8f94486ac4e6bfb27053
+  - enabled: 1
+    path: Assets/Scenes/AreaSelectScene.unity
+    guid: 39b64543892ee8546be453327389bd47
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 61ef5c26b09ed1549902c1d5212e3d6f
+  - enabled: 1
+    path: Assets/Scenes/LeaderboardScene.unity
+    guid: c85b356c260a619418d9bb9e525b058c
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
